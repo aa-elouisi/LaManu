@@ -1,0 +1,38 @@
+﻿<Properties StartupConfiguration="{77E4935B-41C1-4597-8CC6-8D3DBA288A10}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="separation/Program.cs">
+    <Files>
+      <File FileName="classe/Program.cs" Line="10" Column="26" />
+      <File FileName="constructor/Program.cs" Line="1" Column="1" />
+      <File FileName="Intance/Program.cs" Line="1" Column="1" />
+      <File FileName="separation/classes/Color.cs" Line="1" Column="1" />
+      <File FileName="separation/classes/Employee.cs" Line="1" Column="1" />
+      <File FileName="separation/Program.cs" Line="28" Column="78" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="classe" expanded="True">
+            <Node name="classe" expanded="True" />
+            <Node name="constructor" expanded="True" />
+            <Node name="Intance" expanded="True" />
+            <Node name="separation" expanded="True">
+              <Node name="Dependencies" expanded="True" />
+              <Node name="classes" expanded="True" />
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.classe PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

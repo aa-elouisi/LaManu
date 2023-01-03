@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <link rel="stylesheet" href="style.css">
+    <title>exercice3</title>
+</head>
+<body>
+    <form id="identité">
+        <caption>Votre identité</caption>
+        <ol>
+            <li><label for="nom">Nom :</label>
+                <input type="text" placeholder="nom"></li>
+            <li><label for="prénom">Prénom :</label>
+                <input type="text" placeholder="prénom"></li>
+            <li><label for="mail">Adresse mail :</label>
+                <input type="text" placeholder="adresse mail"></li>
+        </ol>
+    </form>
+    <form id="livraison">
+        <caption>Adresse de livraison</caption>
+        <ol>
+            <li><label for="adresse">Adresse :</label>
+                <input type="text"></li>
+            <li><label for="postal">Code postal :</label>
+                <input type="text" placeholder="code postal"></li>
+            <li><label for="ville">Ville :</label>
+                <input type="text" placeholder="ville"></li>
+        </ol>
+    </form>
+    <form id="paiement">
+        <caption>Informations de règlement</caption>
+        <ol>
+            <li><label for="typecarte">Type de carte bancaire :</label>
+                <input type="checkbox" name="VISA" id="VISA">
+                <label for="VISA">VISA</label>
+                <input type="checkbox" name="MasterCard" id="MasterCard">
+                <label for="MasterCard">MasterCard</label></li>
+            <li><label for="numcarte">Numéro de carte :</label>
+                <input type="text" placeholder="numéro de carte"></li>
+            <li><label for="code">Code de sécurité :</label>
+                <input type="text" placeholder="code de sécurité"></li>
+            <li><label for="nomcarte">Nom du titulaire :</label>
+                <input type="text" placeholder="nom du titulaire"></li>
+        </ol>
+    </form>
+    <input type="button" value="J'achète !">
+</body>
+</html>

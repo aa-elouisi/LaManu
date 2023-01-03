@@ -1,0 +1,5 @@
+/Users/achraf/Desktop/LaManu/Module1/Module1/obj/Debug/net6.0/Module1.csproj.AssemblyReference.cache
+/Users/achraf/Desktop/LaManu/Module1/Module1/obj/Debug/net6.0/Module1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/achraf/Desktop/LaManu/Module1/Module1/obj/Debug/net6.0/Module1.AssemblyInfoInputs.cache
+/Users/achraf/Desktop/LaManu/Module1/Module1/obj/Debug/net6.0/Module1.AssemblyInfo.cs
+/Users/achraf/Desktop/LaManu/Module1/Module1/obj/Debug/net6.0/Module1.csproj.CoreCompileInputs.cache

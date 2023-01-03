@@ -1,0 +1,6 @@
+/Users/achraf/Desktop/LaManu/Module1/Module1/obj/Debug/Module1.csproj.AssemblyReference.cache
+/Users/achraf/Desktop/LaManu/Module1/Module1/obj/Debug/Module1.csproj.CoreCompileInputs.cache
+/Users/achraf/Desktop/LaManu/Module1/Module1/bin/Debug/Module1.exe
+/Users/achraf/Desktop/LaManu/Module1/Module1/bin/Debug/Module1.pdb
+/Users/achraf/Desktop/LaManu/Module1/Module1/obj/Debug/Module1.exe
+/Users/achraf/Desktop/LaManu/Module1/Module1/obj/Debug/Module1.pdb

@@ -1,0 +1,60 @@
+@font-face 
+{
+    font-family: "Arima";
+    src: url("Arima_Madurai/ArimaMadurai-Black.ttf");
+}
+table
+{
+    border-collapse: collapse;
+    font-family: "Arima";
+}
+td
+{
+    border: 1px solid black;
+    width: 100px;
+    height: 50px;
+    text-align: center;
+}
+.yoga
+{
+    background-color: #009bcc;
+    color: white;
+}
+.biking
+{
+    background-color: #96c21f;
+    color: white;
+}
+.stretching
+{
+    background-color: #11bcaf;
+    color: white;
+}
+.cardio
+{
+    background-color: #7459ad;
+    color: white;
+}
+.selfdef
+{
+    background-color: #e65686;
+    color: white;
+}
+.boxe
+{
+    background-color: #d9006b;
+    color: white;
+}
+.crossfit
+{
+    background-color: orange;
+    color: white;
+}
+.day, .heure
+{
+    background-color: lightgray;
+}
+.stripes
+{
+    background-image: url("stripes.png");
+}

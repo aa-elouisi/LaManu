@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>separation</id>
+    <version>1.0.0</version>
+    <authors>separation</authors>
+    <description>Package Description</description>
+    <dependencies>
+      <group targetFramework="net6.0" />
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="C:\Users\IntervenantV\source\repos\OPP_LA_MANU\classe\separation\bin\Debug\net6.0\separation.runtimeconfig.json" target="lib\net6.0\separation.runtimeconfig.json" />
+    <file src="C:\Users\IntervenantV\source\repos\OPP_LA_MANU\classe\separation\bin\Debug\net6.0\separation.dll" target="lib\net6.0\separation.dll" />
+  </files>
+</package>

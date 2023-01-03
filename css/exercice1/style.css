@@ -1,0 +1,15 @@
+h1
+{
+    font-style: bold;
+    color: rebeccapurple;
+    font-variant-caps: small-caps;
+}
+em
+{
+    font-style: italic;
+}
+*
+{
+    font-size: large;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}

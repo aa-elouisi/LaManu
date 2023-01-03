@@ -1,0 +1,15 @@
+/Users/achraf/Desktop/LaManu/moduletest/moduletest/bin/Debug/net6.0/moduletest
+/Users/achraf/Desktop/LaManu/moduletest/moduletest/bin/Debug/net6.0/moduletest.deps.json
+/Users/achraf/Desktop/LaManu/moduletest/moduletest/bin/Debug/net6.0/moduletest.runtimeconfig.json
+/Users/achraf/Desktop/LaManu/moduletest/moduletest/bin/Debug/net6.0/moduletest.dll
+/Users/achraf/Desktop/LaManu/moduletest/moduletest/bin/Debug/net6.0/moduletest.pdb
+/Users/achraf/Desktop/LaManu/moduletest/moduletest/obj/Debug/net6.0/moduletest.csproj.AssemblyReference.cache
+/Users/achraf/Desktop/LaManu/moduletest/moduletest/obj/Debug/net6.0/moduletest.GeneratedMSBuildEditorConfig.editorconfig
+/Users/achraf/Desktop/LaManu/moduletest/moduletest/obj/Debug/net6.0/moduletest.AssemblyInfoInputs.cache
+/Users/achraf/Desktop/LaManu/moduletest/moduletest/obj/Debug/net6.0/moduletest.AssemblyInfo.cs
+/Users/achraf/Desktop/LaManu/moduletest/moduletest/obj/Debug/net6.0/moduletest.csproj.CoreCompileInputs.cache
+/Users/achraf/Desktop/LaManu/moduletest/moduletest/obj/Debug/net6.0/moduletest.dll
+/Users/achraf/Desktop/LaManu/moduletest/moduletest/obj/Debug/net6.0/refint/moduletest.dll
+/Users/achraf/Desktop/LaManu/moduletest/moduletest/obj/Debug/net6.0/moduletest.pdb
+/Users/achraf/Desktop/LaManu/moduletest/moduletest/obj/Debug/net6.0/moduletest.genruntimeconfig.cache
+/Users/achraf/Desktop/LaManu/moduletest/moduletest/obj/Debug/net6.0/ref/moduletest.dll

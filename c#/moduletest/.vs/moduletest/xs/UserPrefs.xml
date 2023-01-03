@@ -1,0 +1,26 @@
+﻿<Properties StartupConfiguration="{1B3522A1-E785-429E-A6DA-BCC7B027E717}|Default">
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workbench ActiveDocument="moduletest/Program.cs">
+    <Files>
+      <File FileName="moduletest/Program.cs" Line="30" Column="3" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="moduletest" expanded="True">
+            <Node name="moduletest" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.moduletest PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>
